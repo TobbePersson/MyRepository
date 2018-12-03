@@ -1,8 +1,4 @@
-Alaskahallon - sammansatt stenfrukt (fruktförband)
-Allåkerbär - sammansatt stenfrukt (fruktförband)
-Amanatsu - bär (av typen hesperidium)
-Amaranth - ?
-Amerikanskt blåbär - bär (falskt bär)
+
 Amerikanskt tranbär - bär (falskt bär)
 Ananas - sammansatt frukt
 Ananasguava (feijoa) - Passionsfrukt
@@ -12,3 +8,11 @@ Aprikos - stenfrukt
 Aubergine - grönsak
 Avokado - Frukt
 Aronia - Bär
+
+Babaco
+Backsmultron (nejkon) - falsk frukt (med nötter i fruktförband)
+Banan - bär (falskt bär)
+Bergamott -bär (av typen hesperidium)
+Bigarrå (körsbär) - stenfrukt
+Bilimbi (gurkträd, koromandelkrusbär) - bär?
+Bittergurka (karella/karela) - bär?
